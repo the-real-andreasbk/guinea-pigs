@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'My Guinea Pig Site',
   tagline: 'Dinosaurs are cool but guinea pigs are cooler',
-  url: 'https://the-real-andreasbk.github.io/guinea-pigs/',
+  url: 'https://the-real-andreasbk.github.io/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
