@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkguinea_pigs=self.webpackChunkguinea_pigs||[]).push([[5177],{5989:e=>{e.exports=JSON.parse('{"label":"hello","permalink":"/guinea-pigs/blog/tags/hello","allTagsPath":"/guinea-pigs/blog/tags","count":2}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkguinea_pigs=self.webpackChunkguinea_pigs||[]).push([[7469],{447:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/guinea-pigs/blog/tags/docusaurus","allTagsPath":"/guinea-pigs/blog/tags","count":4}')}}]);

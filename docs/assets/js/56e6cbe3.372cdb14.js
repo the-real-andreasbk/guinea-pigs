@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkguinea_pigs=self.webpackChunkguinea_pigs||[]).push([[6060],{3117:a=>{a.exports=JSON.parse('{"label":"facebook","permalink":"/guinea-pigs/blog/tags/facebook","allTagsPath":"/guinea-pigs/blog/tags","count":1}')}}]);
