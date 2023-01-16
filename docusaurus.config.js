@@ -9,7 +9,7 @@ const config = {
   title: 'My Guinea Pig Site',
   tagline: 'Dinosaurs are cool but guinea pigs are cooler',
   url: 'https://the-real-andreasbk.github.io/guinea-pigs/',
-  baseUrl: '/',
+  baseUrl: '/guinea-pigs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
